@@ -1,0 +1,24 @@
+{
+    "name": "captbrogers/steam-login",
+    "description": "A simple PHP Steam login and validation package",
+    "keywords": ["steam"],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Rogers",
+            "email": "captbrogers@gmail.com"
+        },
+        {
+            "name": "Elliot Hesp",
+            "email": "elliot.hesp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Captbrogers\\SteamLogin": "src/"
+        }
+    }
+}
