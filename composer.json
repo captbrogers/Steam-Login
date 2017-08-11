@@ -18,7 +18,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Captbrogers\\SteamLogin": "src/"
+            "Captbrogers\\SteamLogin\\": "src/"
         }
     }
 }
